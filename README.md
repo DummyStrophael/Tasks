@@ -1,5 +1,5 @@
 # Tasks
-# geek考核目录
+# geek考核笔记目录
 ## 1.[GitHub学习笔记.md](https://github.com/DummyStrophael/Tasks/blob/main/GitHub%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
 ## 2.[markdown学习笔记.md](https://github.com/DummyStrophael/Tasks/blob/main/markdown%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
 ## 3.[markdown进阶笔记.md](https://github.com/DummyStrophael/Tasks/blob/main/markdown%E8%BF%9B%E9%98%B6%E7%AC%94%E8%AE%B0.md)
